@@ -37,4 +37,13 @@ The system:
 ---
 
 ## 📂 Folder Structure
-
+flight-price-tracker/
+│
+├── main.py # FastAPI main app (API endpoints)
+├── seed.py # Seeds MongoDB with 10 sample flights
+├── fetcher.py # Simulates random flight price changes
+├── utils.py # Hybrid search and ranking logic
+├── models.py # MongoDB + Pydantic models
+├── .env # Environment variables (DB URI, etc.)
+├── seeded_flights.json # Exported dataset
+└── README.md # Documentation
