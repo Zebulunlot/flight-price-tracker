@@ -1,0 +1,1159 @@
+[
+  {
+    "_id": "6c55c000-33e1-4bb1-aaa8-dafe04a216a0",
+    "source": "LHE",
+    "destination": "JED",
+    "route": "LHE->JED",
+    "airline": "PIA",
+    "flight_date": "2026-01-01",
+    "tracking_start": "2025-07-05",
+    "interval_days": 14,
+    "price_history": [
+      {
+        "timestamp": "2025-07-05",
+        "price": 618.22
+      },
+      {
+        "timestamp": "2025-07-06",
+        "price": 629.95
+      },
+      {
+        "timestamp": "2025-07-07",
+        "price": 619.3
+      },
+      {
+        "timestamp": "2025-07-08",
+        "price": 590.7
+      },
+      {
+        "timestamp": "2025-07-09",
+        "price": 548.08
+      },
+      {
+        "timestamp": "2025-07-10",
+        "price": 509.04
+      },
+      {
+        "timestamp": "2025-07-11",
+        "price": 511.72
+      },
+      {
+        "timestamp": "2025-07-12",
+        "price": 510.01
+      },
+      {
+        "timestamp": "2025-07-13",
+        "price": 517.96
+      },
+      {
+        "timestamp": "2025-07-14",
+        "price": 490.15
+      },
+      {
+        "timestamp": "2025-07-15",
+        "price": 469.22
+      },
+      {
+        "timestamp": "2025-07-16",
+        "price": 470.05
+      },
+      {
+        "timestamp": "2025-07-17",
+        "price": 488.17
+      },
+      {
+        "timestamp": "2025-07-18",
+        "price": 483.84
+      },
+      {
+        "timestamp": "2025-07-19",
+        "price": 459.6
+      },
+      {
+        "timestamp": "2025-07-20",
+        "price": 429.12
+      },
+      {
+        "timestamp": "2025-07-21",
+        "price": 454.81
+      },
+      {
+        "timestamp": "2025-07-22",
+        "price": 443.57
+      },
+      {
+        "timestamp": "2025-07-23",
+        "price": 434.48
+      },
+      {
+        "timestamp": "2025-07-24",
+        "price": 454.87
+      },
+      {
+        "timestamp": "2025-07-25",
+        "price": 431.38
+      },
+      {
+        "timestamp": "2025-07-26",
+        "price": 425.34
+      },
+      {
+        "timestamp": "2025-07-27",
+        "price": 413.19
+      },
+      {
+        "timestamp": "2025-07-28",
+        "price": 423.81
+      },
+      {
+        "timestamp": "2025-07-29",
+        "price": 401.06
+      },
+      {
+        "timestamp": "2025-07-30",
+        "price": 433.0
+      },
+      {
+        "timestamp": "2025-07-31",
+        "price": 456.07
+      },
+      {
+        "timestamp": "2025-08-01",
+        "price": 451.17
+      },
+      {
+        "timestamp": "2025-08-02",
+        "price": 477.8
+      },
+      {
+        "timestamp": "2025-08-03",
+        "price": 483.99
+      },
+      {
+        "timestamp": "2025-08-04",
+        "price": 454.01
+      },
+      {
+        "timestamp": "2025-08-05",
+        "price": 470.14
+      },
+      {
+        "timestamp": "2025-08-06",
+        "price": 487.22
+      },
+      {
+        "timestamp": "2025-08-07",
+        "price": 448.42
+      },
+      {
+        "timestamp": "2025-08-08",
+        "price": 465.11
+      },
+      {
+        "timestamp": "2025-08-09",
+        "price": 436.17
+      },
+      {
+        "timestamp": "2025-08-10",
+        "price": 416.0
+      },
+      {
+        "timestamp": "2025-08-11",
+        "price": 440.24
+      },
+      {
+        "timestamp": "2025-08-12",
+        "price": 459.23
+      },
+      {
+        "timestamp": "2025-08-13",
+        "price": 489.35
+      },
+      {
+        "timestamp": "2025-08-14",
+        "price": 481.34
+      },
+      {
+        "timestamp": "2025-08-15",
+        "price": 471.24
+      },
+      {
+        "timestamp": "2025-08-16",
+        "price": 464.99
+      },
+      {
+        "timestamp": "2025-08-17",
+        "price": 462.44
+      },
+      {
+        "timestamp": "2025-08-18",
+        "price": 496.7
+      },
+      {
+        "timestamp": "2025-08-19",
+        "price": 477.4
+      },
+      {
+        "timestamp": "2025-08-20",
+        "price": 489.13
+      },
+      {
+        "timestamp": "2025-08-21",
+        "price": 453.11
+      },
+      {
+        "timestamp": "2025-08-22",
+        "price": 458.77
+      },
+      {
+        "timestamp": "2025-08-23",
+        "price": 488.27
+      },
+      {
+        "timestamp": "2025-08-24",
+        "price": 511.76
+      },
+      {
+        "timestamp": "2025-08-25",
+        "price": 534.42
+      },
+      {
+        "timestamp": "2025-08-26",
+        "price": 527.37
+      },
+      {
+        "timestamp": "2025-08-27",
+        "price": 546.67
+      },
+      {
+        "timestamp": "2025-08-28",
+        "price": 563.77
+      },
+      {
+        "timestamp": "2025-08-29",
+        "price": 536.88
+      },
+      {
+        "timestamp": "2025-08-30",
+        "price": 504.55
+      },
+      {
+        "timestamp": "2025-08-31",
+        "price": 465.34
+      },
+      {
+        "timestamp": "2025-09-01",
+        "price": 438.98
+      },
+      {
+        "timestamp": "2025-09-02",
+        "price": 472.0
+      },
+      {
+        "timestamp": "2025-09-03",
+        "price": 465.55
+      },
+      {
+        "timestamp": "2025-09-04",
+        "price": 477.17
+      },
+      {
+        "timestamp": "2025-09-05",
+        "price": 502.56
+      },
+      {
+        "timestamp": "2025-09-06",
+        "price": 476.94
+      },
+      {
+        "timestamp": "2025-09-07",
+        "price": 506.97
+      },
+      {
+        "timestamp": "2025-09-08",
+        "price": 507.67
+      },
+      {
+        "timestamp": "2025-09-09",
+        "price": 481.95
+      },
+      {
+        "timestamp": "2025-09-10",
+        "price": 457.01
+      },
+      {
+        "timestamp": "2025-09-11",
+        "price": 451.17
+      },
+      {
+        "timestamp": "2025-09-12",
+        "price": 469.51
+      },
+      {
+        "timestamp": "2025-09-13",
+        "price": 492.88
+      },
+      {
+        "timestamp": "2025-09-14",
+        "price": 519.78
+      },
+      {
+        "timestamp": "2025-09-15",
+        "price": 507.92
+      },
+      {
+        "timestamp": "2025-09-16",
+        "price": 512.39
+      },
+      {
+        "timestamp": "2025-09-17",
+        "price": 501.31
+      },
+      {
+        "timestamp": "2025-09-18",
+        "price": 477.55
+      },
+      {
+        "timestamp": "2025-09-19",
+        "price": 513.1
+      },
+      {
+        "timestamp": "2025-09-20",
+        "price": 511.6
+      },
+      {
+        "timestamp": "2025-09-21",
+        "price": 503.08
+      },
+      {
+        "timestamp": "2025-09-22",
+        "price": 471.55
+      },
+      {
+        "timestamp": "2025-09-23",
+        "price": 464.33
+      },
+      {
+        "timestamp": "2025-09-24",
+        "price": 468.2
+      },
+      {
+        "timestamp": "2025-09-25",
+        "price": 472.5
+      },
+      {
+        "timestamp": "2025-09-26",
+        "price": 481.42
+      },
+      {
+        "timestamp": "2025-09-27",
+        "price": 473.51
+      },
+      {
+        "timestamp": "2025-09-28",
+        "price": 477.54
+      },
+      {
+        "timestamp": "2025-09-29",
+        "price": 463.93
+      },
+      {
+        "timestamp": "2025-09-30",
+        "price": 465.56
+      },
+      {
+        "timestamp": "2025-10-01",
+        "price": 437.42
+      },
+      {
+        "timestamp": "2025-10-02",
+        "price": 462.59
+      },
+      {
+        "timestamp": "2025-10-03",
+        "price": 459.4
+      },
+      {
+        "timestamp": "2025-10-04",
+        "price": 428.19
+      },
+      {
+        "timestamp": "2025-10-05",
+        "price": 404.2
+      },
+      {
+        "timestamp": "2025-10-06",
+        "price": 433.77
+      },
+      {
+        "timestamp": "2025-10-07",
+        "price": 417.71
+      },
+      {
+        "timestamp": "2025-10-08",
+        "price": 397.07
+      },
+      {
+        "timestamp": "2025-10-09",
+        "price": 427.58
+      },
+      {
+        "timestamp": "2025-10-10",
+        "price": 459.5
+      },
+      {
+        "timestamp": "2025-10-11",
+        "price": 428.36
+      },
+      {
+        "timestamp": "2025-10-12",
+        "price": 405.23
+      },
+      {
+        "timestamp": "2025-10-13",
+        "price": 417.2
+      },
+      {
+        "timestamp": "2025-10-14",
+        "price": 414.68
+      },
+      {
+        "timestamp": "2025-10-15",
+        "price": 384.86
+      },
+      {
+        "timestamp": "2025-10-16",
+        "price": 405.92
+      },
+      {
+        "timestamp": "2025-10-17",
+        "price": 405.51
+      },
+      {
+        "timestamp": "2025-10-18",
+        "price": 422.23
+      },
+      {
+        "timestamp": "2025-10-19",
+        "price": 433.4
+      },
+      {
+        "timestamp": "2025-10-20",
+        "price": 462.74
+      },
+      {
+        "timestamp": "2025-10-21",
+        "price": 452.67
+      },
+      {
+        "timestamp": "2025-10-22",
+        "price": 475.17
+      }
+    ]
+  },
+  {
+    "_id": "c1195b00-447f-479b-8679-a7d0f7e0f1e0",
+    "source": "LHE",
+    "destination": "BKK",
+    "route": "LHE->BKK",
+    "airline": "Thai",
+    "flight_date": "2026-02-20",
+    "tracking_start": "2025-08-24",
+    "interval_days": 1,
+    "price_history": [
+      {
+        "timestamp": "2025-08-24",
+        "price": 853.02
+      },
+      {
+        "timestamp": "2025-08-31",
+        "price": 851.42
+      },
+      {
+        "timestamp": "2025-09-07",
+        "price": 866.74
+      },
+      {
+        "timestamp": "2025-09-14",
+        "price": 801.34
+      },
+      {
+        "timestamp": "2025-09-21",
+        "price": 773.63
+      },
+      {
+        "timestamp": "2025-09-28",
+        "price": 799.48
+      },
+      {
+        "timestamp": "2025-10-05",
+        "price": 800.94
+      },
+      {
+        "timestamp": "2025-10-12",
+        "price": 858.16
+      },
+      {
+        "timestamp": "2025-10-19",
+        "price": 837.78
+      }
+    ]
+  },
+  {
+    "_id": "32cf3b71-bc7f-4d18-993a-fe8bbe9867a6",
+    "source": "SIN",
+    "destination": "BKK",
+    "route": "SIN->BKK",
+    "airline": "SingaporeAir",
+    "flight_date": "2026-03-15",
+    "tracking_start": "2025-09-16",
+    "interval_days": 1,
+    "price_history": [
+      {
+        "timestamp": "2025-09-16",
+        "price": 435.68
+      },
+      {
+        "timestamp": "2025-09-23",
+        "price": 434.07
+      },
+      {
+        "timestamp": "2025-09-30",
+        "price": 409.28
+      },
+      {
+        "timestamp": "2025-10-07",
+        "price": 440.01
+      },
+      {
+        "timestamp": "2025-10-14",
+        "price": 427.62
+      },
+      {
+        "timestamp": "2025-10-21",
+        "price": 409.19
+      }
+    ]
+  },
+  {
+    "_id": "65d3a0b0-2d06-46b5-9994-160e5fc382e4",
+    "source": "LHR",
+    "destination": "JFK",
+    "route": "LHR->JFK",
+    "airline": "BritishAirways",
+    "flight_date": "2026-01-15",
+    "tracking_start": "2025-07-19",
+    "interval_days": 7,
+    "price_history": [
+      {
+        "timestamp": "2025-07-19",
+        "price": 408.74
+      },
+      {
+        "timestamp": "2025-07-20",
+        "price": 392.5
+      },
+      {
+        "timestamp": "2025-07-21",
+        "price": 411.03
+      },
+      {
+        "timestamp": "2025-07-22",
+        "price": 401.61
+      },
+      {
+        "timestamp": "2025-07-23",
+        "price": 427.19
+      },
+      {
+        "timestamp": "2025-07-24",
+        "price": 438.06
+      },
+      {
+        "timestamp": "2025-07-25",
+        "price": 434.67
+      },
+      {
+        "timestamp": "2025-07-26",
+        "price": 410.14
+      },
+      {
+        "timestamp": "2025-07-27",
+        "price": 380.73
+      },
+      {
+        "timestamp": "2025-07-28",
+        "price": 410.35
+      },
+      {
+        "timestamp": "2025-07-29",
+        "price": 395.29
+      },
+      {
+        "timestamp": "2025-07-30",
+        "price": 383.91
+      },
+      {
+        "timestamp": "2025-07-31",
+        "price": 358.4
+      },
+      {
+        "timestamp": "2025-08-01",
+        "price": 336.88
+      },
+      {
+        "timestamp": "2025-08-02",
+        "price": 341.93
+      },
+      {
+        "timestamp": "2025-08-03",
+        "price": 350.79
+      },
+      {
+        "timestamp": "2025-08-04",
+        "price": 355.05
+      },
+      {
+        "timestamp": "2025-08-05",
+        "price": 371.05
+      },
+      {
+        "timestamp": "2025-08-06",
+        "price": 391.67
+      },
+      {
+        "timestamp": "2025-08-07",
+        "price": 380.2
+      },
+      {
+        "timestamp": "2025-08-08",
+        "price": 403.04
+      },
+      {
+        "timestamp": "2025-08-09",
+        "price": 426.75
+      },
+      {
+        "timestamp": "2025-08-10",
+        "price": 397.95
+      },
+      {
+        "timestamp": "2025-08-11",
+        "price": 398.33
+      },
+      {
+        "timestamp": "2025-08-12",
+        "price": 379.04
+      },
+      {
+        "timestamp": "2025-08-13",
+        "price": 352.71
+      },
+      {
+        "timestamp": "2025-08-14",
+        "price": 359.74
+      },
+      {
+        "timestamp": "2025-08-15",
+        "price": 370.89
+      },
+      {
+        "timestamp": "2025-08-16",
+        "price": 391.12
+      },
+      {
+        "timestamp": "2025-08-17",
+        "price": 375.81
+      },
+      {
+        "timestamp": "2025-08-18",
+        "price": 386.68
+      },
+      {
+        "timestamp": "2025-08-19",
+        "price": 360.95
+      },
+      {
+        "timestamp": "2025-08-20",
+        "price": 389.09
+      },
+      {
+        "timestamp": "2025-08-21",
+        "price": 414.31
+      },
+      {
+        "timestamp": "2025-08-22",
+        "price": 439.18
+      },
+      {
+        "timestamp": "2025-08-23",
+        "price": 449.29
+      },
+      {
+        "timestamp": "2025-08-24",
+        "price": 435.42
+      },
+      {
+        "timestamp": "2025-08-25",
+        "price": 462.06
+      },
+      {
+        "timestamp": "2025-08-26",
+        "price": 482.58
+      },
+      {
+        "timestamp": "2025-08-27",
+        "price": 506.82
+      },
+      {
+        "timestamp": "2025-08-28",
+        "price": 533.61
+      },
+      {
+        "timestamp": "2025-08-29",
+        "price": 503.0
+      },
+      {
+        "timestamp": "2025-08-30",
+        "price": 506.21
+      },
+      {
+        "timestamp": "2025-08-31",
+        "price": 534.03
+      },
+      {
+        "timestamp": "2025-09-01",
+        "price": 495.54
+      },
+      {
+        "timestamp": "2025-09-02",
+        "price": 506.54
+      },
+      {
+        "timestamp": "2025-09-03",
+        "price": 468.83
+      },
+      {
+        "timestamp": "2025-09-04",
+        "price": 466.31
+      },
+      {
+        "timestamp": "2025-09-05",
+        "price": 470.59
+      },
+      {
+        "timestamp": "2025-09-06",
+        "price": 474.68
+      },
+      {
+        "timestamp": "2025-09-07",
+        "price": 456.87
+      },
+      {
+        "timestamp": "2025-09-08",
+        "price": 445.06
+      },
+      {
+        "timestamp": "2025-09-09",
+        "price": 468.8
+      },
+      {
+        "timestamp": "2025-09-10",
+        "price": 505.54
+      },
+      {
+        "timestamp": "2025-09-11",
+        "price": 505.9
+      },
+      {
+        "timestamp": "2025-09-12",
+        "price": 468.56
+      },
+      {
+        "timestamp": "2025-09-13",
+        "price": 435.39
+      },
+      {
+        "timestamp": "2025-09-14",
+        "price": 441.73
+      },
+      {
+        "timestamp": "2025-09-15",
+        "price": 441.66
+      },
+      {
+        "timestamp": "2025-09-16",
+        "price": 464.28
+      },
+      {
+        "timestamp": "2025-09-17",
+        "price": 458.52
+      },
+      {
+        "timestamp": "2025-09-18",
+        "price": 466.03
+      },
+      {
+        "timestamp": "2025-09-19",
+        "price": 486.64
+      },
+      {
+        "timestamp": "2025-09-20",
+        "price": 465.58
+      },
+      {
+        "timestamp": "2025-09-21",
+        "price": 446.51
+      },
+      {
+        "timestamp": "2025-09-22",
+        "price": 460.23
+      },
+      {
+        "timestamp": "2025-09-23",
+        "price": 435.07
+      },
+      {
+        "timestamp": "2025-09-24",
+        "price": 452.28
+      },
+      {
+        "timestamp": "2025-09-25",
+        "price": 441.71
+      },
+      {
+        "timestamp": "2025-09-26",
+        "price": 464.43
+      },
+      {
+        "timestamp": "2025-09-27",
+        "price": 457.67
+      },
+      {
+        "timestamp": "2025-09-28",
+        "price": 462.35
+      },
+      {
+        "timestamp": "2025-09-29",
+        "price": 444.38
+      },
+      {
+        "timestamp": "2025-09-30",
+        "price": 434.97
+      },
+      {
+        "timestamp": "2025-10-01",
+        "price": 401.0
+      },
+      {
+        "timestamp": "2025-10-02",
+        "price": 373.17
+      },
+      {
+        "timestamp": "2025-10-03",
+        "price": 397.33
+      },
+      {
+        "timestamp": "2025-10-04",
+        "price": 420.02
+      },
+      {
+        "timestamp": "2025-10-05",
+        "price": 440.96
+      },
+      {
+        "timestamp": "2025-10-06",
+        "price": 451.71
+      },
+      {
+        "timestamp": "2025-10-07",
+        "price": 466.52
+      },
+      {
+        "timestamp": "2025-10-08",
+        "price": 470.26
+      },
+      {
+        "timestamp": "2025-10-09",
+        "price": 458.54
+      },
+      {
+        "timestamp": "2025-10-10",
+        "price": 449.03
+      },
+      {
+        "timestamp": "2025-10-11",
+        "price": 441.69
+      },
+      {
+        "timestamp": "2025-10-12",
+        "price": 423.89
+      },
+      {
+        "timestamp": "2025-10-13",
+        "price": 434.89
+      },
+      {
+        "timestamp": "2025-10-14",
+        "price": 425.35
+      },
+      {
+        "timestamp": "2025-10-15",
+        "price": 447.93
+      },
+      {
+        "timestamp": "2025-10-16",
+        "price": 440.58
+      },
+      {
+        "timestamp": "2025-10-17",
+        "price": 460.94
+      },
+      {
+        "timestamp": "2025-10-18",
+        "price": 441.68
+      },
+      {
+        "timestamp": "2025-10-19",
+        "price": 472.89
+      },
+      {
+        "timestamp": "2025-10-20",
+        "price": 503.52
+      },
+      {
+        "timestamp": "2025-10-21",
+        "price": 543.73
+      },
+      {
+        "timestamp": "2025-10-22",
+        "price": 541.8
+      }
+    ]
+  },
+  {
+    "_id": "0a26ba60-2da5-45f5-830e-187b39eb82d3",
+    "source": "DXB",
+    "destination": "LAX",
+    "route": "DXB->LAX",
+    "airline": "Emirates",
+    "flight_date": "2026-12-25",
+    "tracking_start": "2026-06-28",
+    "interval_days": 1,
+    "price_history": []
+  },
+  {
+    "_id": "8bf5b700-6e9b-4bd7-b29a-8f808afe5ca4",
+    "source": "DEL",
+    "destination": "SYD",
+    "route": "DEL->SYD",
+    "airline": "AirIndia",
+    "flight_date": "2026-04-10",
+    "tracking_start": "2025-10-12",
+    "interval_days": 1,
+    "price_history": [
+      {
+        "timestamp": "2025-10-12",
+        "price": 902.69
+      },
+      {
+        "timestamp": "2025-10-13",
+        "price": 936.68
+      },
+      {
+        "timestamp": "2025-10-14",
+        "price": 973.63
+      },
+      {
+        "timestamp": "2025-10-15",
+        "price": 991.37
+      },
+      {
+        "timestamp": "2025-10-16",
+        "price": 989.02
+      },
+      {
+        "timestamp": "2025-10-17",
+        "price": 941.46
+      },
+      {
+        "timestamp": "2025-10-18",
+        "price": 931.38
+      },
+      {
+        "timestamp": "2025-10-19",
+        "price": 929.27
+      },
+      {
+        "timestamp": "2025-10-20",
+        "price": 856.49
+      },
+      {
+        "timestamp": "2025-10-21",
+        "price": 788.58
+      },
+      {
+        "timestamp": "2025-10-22",
+        "price": 746.07
+      }
+    ]
+  },
+  {
+    "_id": "f414b2ad-6bc3-42ed-a31a-691426c91e22",
+    "source": "KHI",
+    "destination": "DXB",
+    "route": "KHI->DXB",
+    "airline": "Emirates",
+    "flight_date": "2026-02-01",
+    "tracking_start": "2025-08-05",
+    "interval_days": 7,
+    "price_history": [
+      {
+        "timestamp": "2025-08-05",
+        "price": 797.16
+      },
+      {
+        "timestamp": "2025-08-19",
+        "price": 755.47
+      },
+      {
+        "timestamp": "2025-09-02",
+        "price": 718.74
+      },
+      {
+        "timestamp": "2025-09-16",
+        "price": 728.58
+      },
+      {
+        "timestamp": "2025-09-30",
+        "price": 711.13
+      },
+      {
+        "timestamp": "2025-10-14",
+        "price": 682.76
+      }
+    ]
+  },
+  {
+    "_id": "50f2a82c-8b3c-4a83-9e24-f235398189e7",
+    "source": "MNL",
+    "destination": "HKG",
+    "route": "MNL->HKG",
+    "airline": "Cathay",
+    "flight_date": "2026-03-30",
+    "tracking_start": "2025-10-01",
+    "interval_days": 1,
+    "price_history": [
+      {
+        "timestamp": "2025-10-01",
+        "price": 710.78
+      },
+      {
+        "timestamp": "2025-10-02",
+        "price": 708.66
+      },
+      {
+        "timestamp": "2025-10-03",
+        "price": 667.23
+      },
+      {
+        "timestamp": "2025-10-04",
+        "price": 693.46
+      },
+      {
+        "timestamp": "2025-10-05",
+        "price": 654.46
+      },
+      {
+        "timestamp": "2025-10-06",
+        "price": 648.2
+      },
+      {
+        "timestamp": "2025-10-07",
+        "price": 686.59
+      },
+      {
+        "timestamp": "2025-10-08",
+        "price": 657.63
+      },
+      {
+        "timestamp": "2025-10-09",
+        "price": 618.18
+      },
+      {
+        "timestamp": "2025-10-10",
+        "price": 605.41
+      },
+      {
+        "timestamp": "2025-10-11",
+        "price": 623.63
+      },
+      {
+        "timestamp": "2025-10-12",
+        "price": 615.02
+      },
+      {
+        "timestamp": "2025-10-13",
+        "price": 588.54
+      },
+      {
+        "timestamp": "2025-10-14",
+        "price": 545.83
+      },
+      {
+        "timestamp": "2025-10-15",
+        "price": 503.9
+      },
+      {
+        "timestamp": "2025-10-16",
+        "price": 467.57
+      },
+      {
+        "timestamp": "2025-10-17",
+        "price": 444.26
+      },
+      {
+        "timestamp": "2025-10-18",
+        "price": 435.36
+      },
+      {
+        "timestamp": "2025-10-19",
+        "price": 459.96
+      },
+      {
+        "timestamp": "2025-10-20",
+        "price": 475.14
+      },
+      {
+        "timestamp": "2025-10-21",
+        "price": 470.56
+      },
+      {
+        "timestamp": "2025-10-22",
+        "price": 491.95
+      }
+    ]
+  },
+  {
+    "_id": "27ae65dc-e545-4897-b699-8d7becab9035",
+    "source": "DOH",
+    "destination": "CDG",
+    "route": "DOH->CDG",
+    "airline": "QatarAirways",
+    "flight_date": "2026-05-05",
+    "tracking_start": "2025-11-06",
+    "interval_days": 7,
+    "price_history": []
+  },
+  {
+    "_id": "9e51027c-ac0d-4281-9755-892abff6400f",
+    "source": "BOM",
+    "destination": "SFO",
+    "route": "BOM->SFO",
+    "airline": "AirIndia",
+    "flight_date": "2026-06-18",
+    "tracking_start": "2025-12-20",
+    "interval_days": 14,
+    "price_history": []
+  }
+]
